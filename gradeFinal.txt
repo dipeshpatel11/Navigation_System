@@ -1,0 +1,49 @@
+Name:	DIPESH PATEL
+SID:	1722408
+Correctness marking TA:	Jiaqi
+Style marking TA: Rohini Das
+
+CMPUT 275 - Intro to Tangible Computing II Winter 2022
+Marking Guidelines for Assignment Part 2
+
+-------------------------------------------------------------------------
+Total:			100/100
+
+-------------------------------------------------------------------------
+Correctness :		60/60
+
+- 60/60: Pass all of the test inputs. Considera-
+tion will be made for documented reasonable design decisions, if the provided
+test inputs are handled correctly.
+
+- 40/60: Pass most of the test inputs
+
+- 20/60: Pass any of the test inputs
+
+- Your submission will receive 10 marks penalty if your code does not has required time complexity (if apply).
+-------------------------------------------------------------------------
+Style and Design :   30/30
+
+- 30/30: Meets all style and design requirements discussed in the Code Submission
+and Style Guidelines (on eClass)
+
+- 20/30: Meets most (but not all) style and design requirements
+
+- 10/30: Meets some (but not all) style and design requirements Code Submission
+and Style Guidelines (on eClass)
+
+-------------------------------------------------------------------------
+README :		5/5
+
+- 5/5: Correctly contains all of the required information, and in the right format,
+as described in the Code Submission and Style Guidelines, Chapter 2 (on eClass).
+
+- 0 to 4/5: Deductions for missing name, CCID, student number, course name,
+etc. NOTE: CCID is now required and marked.
+
+-------------------------------------------------------------------------
+Submission :		5/5
+
+- 5/5: Submission validator outputs VALIDATION SUCCEEDED. Otherwise, 0/5.
+
+

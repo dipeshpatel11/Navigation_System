@@ -1,0 +1,27 @@
+Name: DIPESH PATEL
+SID:  1722408
+CCID: dipesh1
+CMPUT275, Winter2022
+Assignment : Trivial Navigation System (Parts II)
+
+
+included files: README
+		Makefile
+
+		client folder: client.py
+
+		map folder: 10.png,11.png,12.png,13.png,14.png,15.png
+
+		server folder:  server.cpp
+               		        dijkstra.cpp
+                		dijkstra.h
+                		wdigraph.h
+               			digraph.cpp
+                		digraph.h
+                		Makefile
+                		edmonton-roads-2.0.1.txt
+ 
+running instructions:
+to run code simply navigate through the terminal
+to the directory assignment_part2-pateldeep7878/soln and type either make or make run
+
