@@ -20,8 +20,3 @@ included files: README
                 		digraph.h
                 		Makefile
                 		edmonton-roads-2.0.1.txt
- 
-running instructions:
-to run code simply navigate through the terminal
-to the directory assignment_part2-pateldeep7878/soln and type either make or make run
-
